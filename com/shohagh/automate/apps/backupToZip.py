@@ -30,5 +30,4 @@ def backupToZip(folder):
     backupZip.close()
     print('Done...')
 
-
 backupToZip('F:\\workspace')
